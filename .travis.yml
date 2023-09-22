@@ -16,11 +16,11 @@ jobs:
     - '16'
     install: true
     script:
-    - cd docs && yarn install && yarn build
+    - yarn install && yarn build
     - cd .vitepress/dist
     deploy:
       provider: pages
-      local-dir: docs/.vitepress/dist
+      local-dir: .vitepress/dist
       skip-cleanup: true
       github-token: "$GITHUB_TOKEN"
       keep-history: true
