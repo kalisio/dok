@@ -7,6 +7,7 @@ notifications:
     on_failure: always
 stages:
 - name: DOC
+  if: commit_message =~ /\[build doc\]/
 jobs:
   include:
   - stage: DOC
