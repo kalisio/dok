@@ -7,7 +7,6 @@ It also relies on a development and deployment stack composed of:
 * [Kano](https://kalisio.github.io/kano/), a powerful 2D/3D geospatial data visualizer
 * [Weacast](https://weacast.github.io/weacast-docs/), weather forecast data management platform
 * [Kargo](https://kalisio.github.io/kargo/), a solution to deploy geospatial services
-* [Kaabah](https://github.com/kalisio/kaabah), a solution to build and operate infrastructures
 
 ## Roadmap
 

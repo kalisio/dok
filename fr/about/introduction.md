@@ -7,7 +7,6 @@ Il repose sur un écosystème de développement et de déploiement composé de:
 * [Kano](https://kalisio.github.io/kano/), un visualiseur 2D/3D de données géospatiales
 * [Weacast](https://weacast.github.io/weacast-docs/), une plateforme de gestion de données météorologiques
 * [Kargo](https://kalisio.github.io/kargo/), une solution pour déployer des services géospatiaux
-* [Kaabah](https://github.com/kalisio/kaabah), une solution pour déployer et opérer des infrastructures
 
 ## Feuille de route
 
