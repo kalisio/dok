@@ -18,6 +18,7 @@ jobs:
     install: true
     script:
     - yarn install && yarn build
+    - cp ./CNAME .vitepress/dist/CNAME
     - cd .vitepress/dist
     deploy:
       provider: pages
