@@ -5,7 +5,7 @@ const clientPort = process.env.CLIENT_PORT || process.env.HTTPS_CLIENT_PORT || 8
 
 export default withMermaid(
   defineConfig({
-    base: '/dok/',
+    base: '/',
     title: 'Kalisio Crisis',
     description: 'Situational intelligence solution to inform and coordinate fieldworkers',
     ignoreDeadLinks: true,
@@ -61,9 +61,6 @@ export default withMermaid(
     },
     mermaid: {
       // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
-    },
-    build: {
-      chunkSizeWarningLimit: 1600
     }
   })
 )

@@ -1,6 +1,4 @@
 import DefaultTheme from 'vitepress/theme'
-import { watchEffect } from 'vue'
-import { useData } from 'vitepress'
 import TourLink from './components/TourLink.vue'
 import HomeFooter from './components/HomeFooter.vue'
 import './style.css'
