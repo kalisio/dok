@@ -120,6 +120,26 @@ Based on [FiLoSoFi](https://www.insee.fr/fr/statistiques/6215217) data from the 
 
 ![ADMIN EXPRESS](../.vitepress/public/images/adminexpress.png)
 
+### METAR
+
+**METAR**(METeorological Airport Report2) data refers to aviation weather observation reports. **METAR** are issued by aerodromes according to a  [standardized formalism](https://fr.wikipedia.org/wiki/METAR) by ICAO (International Civil Aviation Organization).
+
+METAR messages are updated regularly, often between 30 minutes and 60 minutes during the field's opening hours, depending on its equipment and the possibility of a significant change in observed weather.
+
+A METAR contains a variety of information, including:
+* ICAO code of the airport or aerodrome for which the METAR is issued
+* date of observation
+* wind
+* horizontal visibility
+* cloud cover
+* temperature and dew point
+* sea level pressure
+* any additional notes and data.
+
+![METAR](../.vitepress/public/images/metar.png)
+
+The data collected is made available by the [Aviation Weather Center](https://www.aviationweather.gov/) service. 
+
 ## Components
 
 Each component can be shown/hidden through a handle on the different side of the view:

@@ -144,6 +144,26 @@ Sur la base des données [FiLoSoFi](https://www.insee.fr/fr/statistiques/6215217
 
 ![ADMIN EXPRESS](../../.vitepress/public/images/adminexpress.png)
 
+### Données METAR
+
+Les données **METAR**(METeorological Airport Report2) désignent des rapports d'observatons métérologiques pour l'aviation. Les **METAR** sont émis par les aérodromes selon un [formalisme standardisé](https://fr.wikipedia.org/wiki/METAR) par l’OACI (Organisation de l’Aviation Civile Internationale).
+
+Les messages METAR sont mis à jour régulièrement, souvent entre 30 minutes à 60 minutes pendant les heures d'ouverture du terrain, selon son équipement et l'éventualité d'un changement important du temps observé.
+
+Un METAR contient diverses informations, entre autres :
+* le code OACI de l'aéroport ou aérodrome pour lequel est émis le METAR
+* la date de l'observation
+* le vent
+* la visibilité horizontale
+* la couverture nuageuse
+* la température et le point de rosée
+* la pression au niveau de la mer
+* des remarques et données additionnelles éventuelles.
+
+![METAR](../../.vitepress/public/images/metar.png)
+
+Les données collectées sont mises à disposition par la service de le [Aviation Weather Center](https://www.aviationweather.gov/). 
+
 ## Composants graphiques
 
 Chaque composant peut être affiché/caché par l'intermédiaire de poignées visibles sur les différents côtés de l'écran:
