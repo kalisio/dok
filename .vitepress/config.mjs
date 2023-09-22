@@ -44,6 +44,11 @@ export default withMermaid(
     themeConfig: {
       logo: 'https://s3.eu-central-1.amazonaws.com/kalisioscope/crisis/crisis-icon-color-64x64.png',
       appUrl: (process.env.NODE_ENV === 'development' ? `http://localhost:${clientPort}/` : 'https://crisis.kalisio.com/'),
+      socialLinks: [        
+        { icon: 'linkedin', link: 'https://fr.linkedin.com/company/kalisio' },
+        { icon: 'twitter', link: 'https://twitter.com/Kalisio3' },
+        { icon: 'github', link: 'https://github.com/kalisio' }
+      ],
       nav: [
         { text: 'Quickstart', link: '/quickstart/introduction' },
         { text: 'Go further', link: '/gofurther/introduction' },
