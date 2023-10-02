@@ -4,7 +4,7 @@ sidebarDepth: 3
 
 # Changelog
 
-## September 20, 2023 - v2.0.1
+## October 2nd, 2023 - v2.0.1
 
 Akt'n'Map is renamed Kalisio Crisis and is now available as a Progressive Web App (PWA).
 
@@ -34,7 +34,7 @@ A few fixes have also been made:\
 
 Finally, a new feature allows you to integrate your own real-time data feeds into the map, as well as automatically publish events via our API.
 
-## February 23, 2022 - v1.3.0
+## February 23rd, 2022 - v1.3.0
 
 Here are the details of the improvements resulting from your suggestions:\
 👉 the manager of an organization can now manage all groups without automatically being a member,\
@@ -53,7 +53,7 @@ Some fixes have also been made:\
 👉 Mapillary view in full screen mode,\
 👉 impossible to create an event on the map above a map element.
 
-## October 24, 2021 - v1.2.0
+## October 24th, 2021 - v1.2.0
 
 This new version offers a more ergonomic interface, making it easier to navigate between the different functions within your organizations.
 
