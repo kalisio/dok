@@ -19,6 +19,7 @@ Here are the details of the improvements resulting from your suggestions:\
 👉 possibility to precisely select the range of data displayed in the graphs,\
 👉 possibility to zoom on the data visualized in the graphs,\
 👉 possibility to freely move additional widgets,\
+👉 ability to notify your whole organisation,\
 👉 collaborative map editing,\
 👉 optimized cartographic visualization of large measurement sets,\
 👉 ability to configure the target time zone for displaying dates and times.

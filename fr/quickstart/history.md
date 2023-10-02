@@ -19,6 +19,7 @@ Voici le détail des améliorations issues de vos suggestions:\
 👉 possibilité de sélectionner précisément la plage des données visualisées dans les graphiques,\
 👉 possibilité de zoomer sur les données visualisées dans les graphiques,\
 👉 possibilité de déplacer librement les widgets additionnels,\
+👉 possibilité de notifier votre organisation en entier,\
 👉 édition cartographique collaborative,\
 👉 visualisation cartographique optimisée de jeux de mesures volumineux,\
 👉 possibilité de configurer le fuseau horaire cible pour l'affichage des dates et heures.
