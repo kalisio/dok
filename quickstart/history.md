@@ -4,7 +4,7 @@ sidebarDepth: 3
 
 # Changelog
 
-## September 20, 2023 - v2.0.0
+## September 20, 2023 - v2.0.1
 
 Akt'n'Map is renamed Kalisio Crisis and is now available as a Progressive Web App (PWA).
 
