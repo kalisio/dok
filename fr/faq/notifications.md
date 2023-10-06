@@ -27,7 +27,7 @@ Pour vérifier si les notifications push sont activées pour l'application insta
 
 :::
 
-::: Astuce Remarque
+::: tip Remarque
 Les services de notification push exploités par Google, Apple ou Mozilla font de leur mieux pour envoyer des notifications aux utilisateurs. Toutefois, une notification peut être envoyée plusieurs fois, voire pas du tout, bien que ces cas soient rares.
 :::
 
