@@ -26,12 +26,14 @@ export default withMermaid(
             { text: 'Démarrer', link: '/fr/quickstart/introduction' },
             { text: 'Aller plus loin', link: '/fr/gofurther/introduction' },
             { text: 'Didacticiels', link: '/fr/tutorials/introduction' },
+            { text: 'FAQ', link: '/fr/faq/introduction' },
             { text: 'A propos', link: '/fr/about/introduction'}
           ],
           sidebar: {
             '/fr/quickstart/': getQuickStartSidebar('fr'),
             '/fr/gofurther/': getGoFurtherSidebar('fr'),
             '/fr/tutorials/': getTutorialsSidebar('fr'),
+            '/fr/faq/': getFaqSidebar('fr'),
             '/fr/about/': getAboutSidebar('fr')
           },
           docFooter: {
@@ -52,12 +54,14 @@ export default withMermaid(
       nav: [
         { text: 'Quickstart', link: '/quickstart/introduction' },
         { text: 'Go further', link: '/gofurther/introduction' },
+        { text: 'FAQ', link: '/faq/introduction' },
         { text: 'About', link: '/about/introduction' }
       ],
       sidebar: {
         '/quickstart/': getQuickStartSidebar(),
         '/gofurther/': getGoFurtherSidebar(),
         '/tutorials/': getTutorialsSidebar(),
+        '/faq/': getFaqSidebar(),
         '/about/': getAboutSidebar()
       },
       footer: {
@@ -122,6 +126,21 @@ function getTutorialsSidebar (lang = 'en') {
   }
   return [
     { text: 'Didacticiels Vidéo', link: '/fr/tutorials/introduction' }
+  ]
+}
+
+function getFaqSidebar (lang = 'en') {
+  if (lang === 'en') {
+    return [
+      { text: 'Frequently Asked Questions', link: '/faq/introduction' },
+      { text: 'Login and account', link: '/faq/account' },
+      { text: 'Push notifications', link: '/faq/notifications' }
+    ]
+  }
+  return [
+    { text: 'Foire Aux Questions', link: '/fr/faq/introduction' },
+    { text: 'Connexion et compte', link: '/fr/faq/account' },
+    { text: 'Notifications push', link: '/fr/faq/notifications' }
   ]
 }
 
