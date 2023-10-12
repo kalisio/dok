@@ -23,7 +23,7 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev",
+    "dev": "vitepress dev --port ${PORT:-80}",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
