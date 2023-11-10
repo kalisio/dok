@@ -134,13 +134,15 @@ function getFaqSidebar (lang = 'en') {
     return [
       { text: 'Frequently Asked Questions', link: '/faq/introduction' },
       { text: 'Login and account', link: '/faq/account' },
-      { text: 'Push notifications', link: '/faq/notifications' }
+      { text: 'Push notifications', link: '/faq/notifications' },
+      { text: 'Bug report', link: '/faq/bug-report' }
     ]
   }
   return [
     { text: 'Foire Aux Questions', link: '/fr/faq/introduction' },
     { text: 'Connexion et compte', link: '/fr/faq/account' },
-    { text: 'Notifications push', link: '/fr/faq/notifications' }
+    { text: 'Notifications push', link: '/fr/faq/notifications' },
+    { text: 'Signaler un bug', link: '/fr/faq/bug-report' }
   ]
 }
 
