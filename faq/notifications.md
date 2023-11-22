@@ -18,9 +18,17 @@ To check if push notifications are enabled for the application installed on your
 5. Fully close the application.
 6. Open the application again.
 
+Another workflow to check if push notifications are enabled for the application installed on your **Android device** can be used:
+1. Press and hold the application icon on your home screen.
+2. Open *"Website settings*" <i class="las la-cog"></i>.
+3. If the *"Notifications"* <i class="las la-bell"></i> box is checked, uncheck and then re-check it. If the box is not checked, check it.
+4. Fully close the application.
+5. Open the application again.
+
 To check if push notifications are enabled for the application installed on your **desktop device**, follow these steps:
-1. Open *"Application settings"* <i class="las la-ellipsis-v"></i>.
-2. Select *"About the application"*.
+1. Launch the application.
+2. Open *"Application settings"* <i class="las la-ellipsis-v"></i>.
+3. Select *"About the application"*.
 4. If the *"Notifications"* <i class="las la-bell"></i> box is checked, uncheck and then re-check it. If the box is not checked, check it.
 5. Fully close the application.
 6. Open the application again.
@@ -30,7 +38,6 @@ To check if push notifications are enabled for the application installed on your
 ::: tip Note
 The push notification services operated by Google, Apple or Mozilla make the best effort to deliver notifications to users. However, a notification may be delivered more than once or not at all, although these cases are rare.
 :::
-
 
 ## I don't want to receive notifications anymore, what can I do?
 
@@ -46,11 +53,19 @@ To disable push notifications for the application installed on your **mobile dev
 5. Fully close the application.
 6. Open the application again.
 
-To disable push notifications for the application installed on your **desktop device**, follow these steps:
-1. Open *"Application settings*" <i class="las la-ellipsis-v"></i>.
-2. Select *"About the application"*.
+Another workflow to disable geolocation for the application installed on your **Android device** can be used:
+1. Press and hold the application icon on your home screen.
+2. Open *"Website settings*" <i class="las la-cog"></i>.
 3. Uncheck the *"Notifications"* <i class="las la-bell"></i> box.
 4. Fully close the application.
 5. Open the application again.
+
+To disable push notifications for the application installed on your **desktop device**, follow these steps:
+1. Launch the application.
+2. Open *"Application settings*" <i class="las la-ellipsis-v"></i>.
+3. Select *"About the application"*.
+4. Uncheck the *"Notifications"* <i class="las la-bell"></i> box.
+5. Fully close the application.
+6. Open the application again.
 
 :::

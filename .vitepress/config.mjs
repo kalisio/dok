@@ -135,6 +135,7 @@ function getFaqSidebar (lang = 'en') {
       { text: 'Frequently Asked Questions', link: '/faq/introduction' },
       { text: 'Login and account', link: '/faq/account' },
       { text: 'Push notifications', link: '/faq/notifications' },
+      { text: 'Geolocation', link: '/faq/geolocation' },
       { text: 'Bug report', link: '/faq/bug-report' }
     ]
   }
@@ -142,6 +143,7 @@ function getFaqSidebar (lang = 'en') {
     { text: 'Foire Aux Questions', link: '/fr/faq/introduction' },
     { text: 'Connexion et compte', link: '/fr/faq/account' },
     { text: 'Notifications push', link: '/fr/faq/notifications' },
+    { text: 'Géolocalisation', link: '/fr/faq/geolocation' },
     { text: 'Signaler un bug', link: '/fr/faq/bug-report' }
   ]
 }

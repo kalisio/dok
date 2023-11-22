@@ -18,9 +18,17 @@ Pour vérifier si les notifications push sont activées pour l'application insta
 5. Fermez complètement l'application.
 6. Ouvrez à nouveau l'application.
 
+Une autre procédure peut être suivie pour vérifier si les notifications push sont activées pour l'application installée sur votre **appareil Android** :
+1. Appuyez et maintenez sur l'icône de l'application sur votre écran d'acceuil. 
+2. Ouvrez *"Paramètres du site*" <i class="las la-cog"></i>.
+3. Si la case *"Notifications"* <i class="las la-bell"></i> est cochée, décochez-la puis re-cochez-la. Si la case n'est pas cochée, cochez-la.
+4. Fermez complètement l'application.
+5. Ouvrez à nouveau l'application.
+
 Pour vérifier si les notifications push sont activées pour l'application installée sur votre **appareil de bureau**, procédez comme suit :
-1. Ouvrez *"Paramètres de l'application"* <i class="las la-ellipsis-v"></i>.
-2. Sélectionnez *"À propos de l'application"*.
+1. Lancez l'application.
+2. Ouvrez *"Paramètres de l'application"* <i class="las la-ellipsis-v"></i>.
+3. Sélectionnez *"À propos de l'application"*.
 4. Si la case *"Notifications"* <i class="las la-bell"></i> est cochée, décochez-la puis re-cochez-la. Si la case n'est pas cochée, cochez-la.
 5. Fermez complètement l'application.
 6. Ouvrez à nouveau l'application.
@@ -33,7 +41,7 @@ Les services de notification push exploités par Google, Apple ou Mozilla font d
 
 ## Je ne souhaite plus recevoir les notifications, que puis-je faire ?
 
-Les notifications push peuvent être facilement activées ou désactivées par vous-même. Contrairement à l’envoi d’email, vous n’avez pas besoin de faire de demande de désabonnement. Vous pouvez gérer vos abonnements et désabonnements directement depuis le navigateur ou l'écran des paramètres système si l'application a été installée.
+Les notifications push peuvent être facilement activées ou désactivées par vos soins. Contrairement à l’envoi d’email, vous n’avez pas besoin de faire de demande de désabonnement. Vous pouvez gérer vos abonnements et désabonnements directement depuis le navigateur ou l'écran des paramètres système si l'application a été installée.
 
 ::: details Comment désactiver les notifications push sur votre appareil ?
 
@@ -45,11 +53,19 @@ Pour désactiver les notifications push pour l'application installée sur votre 
 5. Fermez complètement l'application.
 6. Ouvrez à nouveau l'application.
 
-Pour désactiver les notifications push pour l'application installée sur votre **appareil de bureau**, procédez comme suit :
-1. Ouvrez *"Paramètres de l'application*" <i class="las la-ellipsis-v"></i>.
-2. Sélectionnez *"À propos de l'application"*.
+Une autre procédure peut être suivie pour désactiver les notifications push pour l'application installée sur votre **appareil Android** :
+1. Appuyez et maintenez sur l'icône de l'application sur votre écran d'acceuil. 
+2. Ouvrez *"Paramètres du site*" <i class="las la-cog"></i>.
 3. Décochez la case *"Notifications"* <i class="las la-bell"></i>.
 4. Fermez complètement l'application.
 5. Ouvrez à nouveau l'application.
+
+Pour désactiver les notifications push pour l'application installée sur votre **appareil de bureau**, procédez comme suit :
+1. Lancez l'application.
+2. Ouvrez *"Paramètres de l'application*" <i class="las la-ellipsis-v"></i>.
+3. Sélectionnez *"À propos de l'application"*.
+4. Décochez la case *"Notifications"* <i class="las la-bell"></i>.
+5. Fermez complètement l'application.
+6. Ouvrez à nouveau l'application.
 
 :::
