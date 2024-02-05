@@ -23,13 +23,18 @@
   },
   "type": "module",
   "scripts": {
-    "dev": "vitepress dev --port ${PORT:-80}",
+    "dev": "vitepress dev ",
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "devDependencies": {
-    "mermaid": "^10.4.0",
-    "vitepress": "^1.0.0-rc.15",
-    "vitepress-plugin-mermaid": "^2.0.14"
+    "keycloak-js": "^23.0.4",
+    "lodash": "^4.17.21",
+    "mermaid": "^10.8.0",
+    "moment": "^2.30.1",
+    "quasar": "^2.14.3",
+    "vitepress": "^1.0.0-rc.40",
+    "vitepress-plugin-mermaid": "^2.0.16",
+    "vitepress-theme-kalisio": "https://github.com/kalisio/vitepress-theme-kalisio"
   }
 }

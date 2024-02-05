@@ -68,6 +68,14 @@ export default withMermaid(
         copyright: 'MIT Licensed | Copyright © 2017-20xx Kalisio'
       }
     },
+    vite: {
+      optimizeDeps: {
+        include: ['keycloak-js', 'lodash'],
+      },
+      ssr: {
+        noExternal: ['vitepress-theme-kalisio']
+      }
+    },
     mermaid: {
       // refer https://mermaid.js.org/config/setup/modules/mermaidAPI.html#mermaidapi-configuration-defaults for options
     }
