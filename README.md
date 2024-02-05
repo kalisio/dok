@@ -1,4 +1,4 @@
-[![Crisis](https://s3.eu-central-1.amazonaws.com/kalisioscope/crisis/crisis-logo-color-512x256.png)](https://crisis.kalisio.com/)
+[![Crisis](https://s3.eu-central-1.amazonaws.com/kalisioscope/crisis/crisis-logo-color-512x192.png)](https://crisis.kalisio.com/)
 
 ## Kalisio Crisis Documentation
 
