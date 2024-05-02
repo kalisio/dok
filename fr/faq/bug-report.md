@@ -8,6 +8,6 @@ Pour signaler un problème à partir de l'application:
 1. Connectez-vous avec votre compte utilisateur
 2. Ouvrez le panneau latéral gauche (i.e. *Menu principal*)
 3. Sélectionnez *"A propos"* <i class="las la-info"></i> dans le menu
-4. Cliquez sur le bouton *"Nous signaler un bug"* <i class="las la-bug"></i>
+4. Cliquez sur le bouton *"Signaler un bug"* <i class="las la-bug"></i>
 5. Détaillez votre problème dans le corps du message créé par votre client mail tout en conservant les informations pré-remplies liées à votre système
 6. Envoyer le message
