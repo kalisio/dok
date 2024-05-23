@@ -33,4 +33,4 @@ done
 ## Build docs
 ##
 
-build_docs "$ROOT_DIR" "kalisio/doc" "$PUBLISH"
+build_docs "$ROOT_DIR" "kalisio/dok" "$PUBLISH"
