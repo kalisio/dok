@@ -8,7 +8,7 @@ The full documentation is available [here]( https://doc.planet.kalisio.com/)
 
 ## License
 
-This project is licensed under the MIT License - see the [license file](./LICENSE) for details
+This project is licensed under the MIT License - see the [license file](./docs/LICENSE) for details
 
 ## Authors
 
