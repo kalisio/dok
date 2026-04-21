@@ -4,6 +4,38 @@ sidebarDepth: 3
 
 # Changelog
 
+## April 21st, 2026 - v2.1.1
+
+Here are the details of the improvements resulting from your suggestions:\
+👉 cartographic data completely managed using [Kano](https://kalisio.github.io/kano/),\
+👉 automated focus on input controller when opening search tool,\
+👉 new position indicator,\
+👉 enhanced zoom control,\
+👉 enhanced coordinates parsing to support more formats in search tool,\
+👉 new map attribution component,\
+👉 ability to stack multiple timeseries with multi-selection,\
+👉 more ergonomic timeline component,\
+👉 more data export available (tags, groups, members).
+
+Relying on Kano for cartographic data management provides you with many new features like:
+👉 3D globe rendering,\
+👉 new style manager for layer styling,\
+👉 new selection manager to launch actions on selected features,\
+👉 layers targetting OGC Web Services can send an additional header for authentication,\
+👉 layers and categories display order can be changed by drag'n'drop,\
+👉 specific actions now available to edit features of a layer.
+
+Our cartographic data is also enriched:\
+👉 enhanced rendering and legend of various data layer,\
+👉 French electrical generation data from [RTE](https://data.rte-france.com/),\
+👉 French atmospheric data from [ICOS](https://www.icos-cp.eu/),\
+👉 French [hydrometric](http://hubeau.eaufrance.fr/page/api-hydrometrie) and [piezometric](http://hubeau.eaufrance.fr/page/api-piezometrie) data from [Hub'Eau](http://hubeau.eaufrance.fr).
+
+A few fixes have also been made:\
+👉 GSMap cloud cover layer not working anymore,\
+👉 logbook charts,\
+👉 logbook heatmap.
+
 ## October 2nd, 2023 - v2.0.1
 
 Akt'n'Map is renamed Kalisio Crisis and is now available as a Progressive Web App (PWA).
