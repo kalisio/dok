@@ -17,7 +17,7 @@ Here are the details of the improvements resulting from your suggestions:\
 👉 more ergonomic timeline component,\
 👉 more data export available (tags, groups, members).
 
-Relying on Kano for cartographic data management provides you with many new features like:
+Relying on Kano for cartographic data management provides you with many new features like:\
 👉 3D globe rendering,\
 👉 new style manager for layer styling,\
 👉 new selection manager to launch actions on selected features,\
